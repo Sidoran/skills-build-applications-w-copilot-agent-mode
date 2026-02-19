@@ -15,3 +15,7 @@ Not Found: /
 [19/Feb/2026 11:46:10] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18854
 [19/Feb/2026 11:46:10] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
 [19/Feb/2026 11:46:10] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[19/Feb/2026 11:48:33] "GET /api/ HTTP/1.1" 200 195
+[19/Feb/2026 11:48:41] "GET /api/activities/ HTTP/1.1" 200 33
+[19/Feb/2026 11:48:50] "GET /api/ HTTP/1.1" 200 195
+[19/Feb/2026 11:48:58] "GET /api/ HTTP/1.1" 200 195
